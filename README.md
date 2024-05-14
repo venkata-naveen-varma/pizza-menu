@@ -1,6 +1,6 @@
-### A Reactjs Pizza Menu
+## A Reactjs Pizza Menu
 
-#### Tech Stack
+### Tech Stack
 - Reactjs
 - javascript
 - HTML
