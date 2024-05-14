@@ -1,4 +1,4 @@
-## A Reactjs Pizza Menu
+### A Reactjs Pizza Menu
 
 #### Tech Stack
 - Reactjs
